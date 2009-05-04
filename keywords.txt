@@ -1,0 +1,24 @@
+#######################################################
+#  keywords.txt - keywords file for the BarGraph library
+#  Created by Andrew Bloom, May 3rd 2009.
+#  Released into the public domain.
+#######################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BarGraph	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writeValue	KEYWORD2
+writeArray	KEYWORD2
+clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
