@@ -11,6 +11,8 @@
 #include <WProgram.h>
 #include <WConstants.h>
 
+#define _BAR_GRAPH_DELAY 1
+
 // Define the BarGraph class
 class BarGraph
 {
