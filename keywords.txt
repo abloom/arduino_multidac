@@ -8,7 +8,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-BarGraph	KEYWORD1
+MultiDAC	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
